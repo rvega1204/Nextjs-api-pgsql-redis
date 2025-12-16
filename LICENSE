@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2025 Next.js API PostgreSQL Redis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+EDUCATIONAL USE ADDENDUM
+
+This software is specifically made available for educational purposes. Students,
+educators, and learners are explicitly granted permission to:
+
+1. Use this software in academic coursework and assignments
+2. Modify and adapt the code for learning purposes
+3. Share the software with other students and educators
+4. Build upon this software for educational projects
+5. Use this software in student portfolios and demonstrations
+
+No attribution is required for educational use, though it is appreciated.
+
+For commercial use, standard MIT License terms apply.
