@@ -57,7 +57,7 @@ This API implements a **cache-aside pattern** for optimal performance:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/rvega1204/nextjs-api-pgsql-master.git
 cd nextjs-api-pgsql-master
 ```
 
